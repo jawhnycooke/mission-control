@@ -9,7 +9,7 @@
     {
       "name": "mission-control",
       "source": "./",
-      "description": "On-demand Mission Control skills for the Cowork workspace: refresh the morning brief and dashboard with /today, and print a one-screen pre-read for an upcoming meeting with /prep.",
+      "description": "On-demand Mission Control skills for the Cowork workspace: refresh the morning brief and dashboard with /today, print a one-screen pre-read for an upcoming meeting with /prep, and deep-dive a stock or ETF thesis with /research.",
       "version": "1.0.0"
     }
   ]
