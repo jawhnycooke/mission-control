@@ -1,0 +1,10 @@
+{
+  "name": "mission-control",
+  "version": "1.0.0",
+  "description": "On-demand Mission Control skills for the Cowork workspace: refresh the morning brief and dashboard with /today, and print a one-screen pre-read for an upcoming meeting with /prep.",
+  "author": {
+    "name": "Jawhny Cooke",
+    "email": "jawhny@fundamental.tech"
+  },
+  "keywords": ["mission-control", "morning-brief", "meeting-prep", "cowork", "dashboard"]
+}
